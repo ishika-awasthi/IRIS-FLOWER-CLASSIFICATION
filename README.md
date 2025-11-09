@@ -92,5 +92,5 @@ jupyter notebook Iris_Classification.ipynb
 ## 👩‍💻 Author
 
 **Ishika Awasthi**
-📧 [awasthiishika06@gmail.com](mailto:awasthiishika06@gmail.com)
+📧 [awasthiishika661@gmail.com](mailto:awasthiishika661@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/ishika-awasthi-138609324/) | [GitHub](https://github.com/ishika-awasthi)
